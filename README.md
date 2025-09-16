@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/forks/XrayR-project/XrayR)
 ![](https://github.com/XrayR-project/XrayR/actions/workflows/release.yml/badge.svg)
 ![](https://github.com/XrayR-project/XrayR/actions/workflows/docker.yml/badge.svg)
-[![Github All Releases](https://img.shields.io/github/downloads/XrayR-project/XrayR/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/XrayR-project/XrayR/total.svg)]().
 
 
 [English](https://github.com/XrayR-project/XrayR/blob/master/README-en.md)|[Iranian](https://github.com/XrayR-project/XrayR/blob/master/README_Fa.md)|[Vietnamese](https://github.com/XrayR-project/XrayR/blob/master/README-vi.md)
