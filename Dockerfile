@@ -14,4 +14,5 @@ RUN  apk --update --no-cache add tzdata ca-certificates \
 RUN mkdir /etc/XrayR/
 COPY --from=builder /app/XrayR /usr/local/bin
 
+
 ENTRYPOINT [ "XrayR", "--config", "/etc/XrayR/config.yml"]
